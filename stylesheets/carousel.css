@@ -82,6 +82,13 @@ body {
 /* Featurettes
 ------------------------- */
 
+.featurette-image {
+    position: absolute;
+    left: 150px;
+    top: 200px;
+    z-index: -1;
+}
+
 .featurette-divider {
   margin: 10px 0; /* Space out the Bootstrap <hr> more */
 }
